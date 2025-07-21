@@ -3,7 +3,7 @@
 #### Author: Kumar Pancham Prasar (Roll No: 2303RES23)
 
 ### 📌 Project Overview
-## VThis project focuses on Part-of-Speech (PoS) tagging using two different models:
+#### This project focuses on Part-of-Speech (PoS) tagging using two different models:
 
 A Hidden Markov Model (HMM) with probabilistic estimations (Part 1)
 
